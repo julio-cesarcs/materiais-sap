@@ -1,0 +1,77 @@
+[
+  {
+    "codigo": 20371699,
+    "nome": "ABRACADEIRA",
+    "descricao": "PARA CONDULETE; PVC 1\"; COM FECHO DE SISTEMA \"CLIC\"; COR CINZA.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/20371699.png"
+  },
+  {
+    "codigo": 30168755,
+    "nome": "COPO PLÁSTICO DESCARTÁVEL",
+    "descricao": "COR BRANCO LEITOSO; MATERIAL. EM POLIPROPILENO (PP); CAPACIDADE 200MÇ; CAIXA COM 25 CENTOS(2.500 UNIDADES), O MATERIAL DEVE ESTAR DE ACORDO COM A nbr 14.865 / 2012",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "1 CAIXA = 1 PECA",
+    "imagem": "./assets/img/30168755.png"
+  },
+  {
+    "codigo": 20370425,
+    "nome": "CABO DE MANOBRA UTP",
+    "descricao": "COBRE ELETROLITICO. FLEXIVEL. FORMADO POR 7 FILAMENTOS DE DIAMETRO NOMINAL DE 0,20MM. CLASSE DE FLAMEABIIDADE: LSZH. NA COR AZUL. COMPRIMENTO: 1,5 M. COM CONECTOR RJ 45 NAS EXTREMIDADES. RESISTÊNCIA MAXIMA DO CONDUTOR: 93,8 Q/KM. CAPACITANCIA MUTUA MAXIMA EM 1 KHZ: 56 PF/M. IMPEDANCIA CARACTERISTICA: 100+15%0. DIFERENÇA ENTRE ATRASO DE PRGAMAÇÃO MAXIMO: 45 NS/100M. CATEGORIA €(CATE). CERIFICACAO: ANATEL LSZH: 2521-09-0256. NORMA: NBR 14565.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/20370425.png"
+  },{
+    "codigo": "30175574",
+    "nome": "AGUA MINERAL NATURAL COM GAS",
+    "descricao": "FLUORETADA; RADIOATIVA; GARRAFA PLASTICA DE 500ml. DEVENDO POSSUIR PRAZO MÍNIMO DE 90 DIAS DO ENGARRAFAMENTO, CLARAMENTE EXPRESSO NA EMBALAGEM DO PRODUTO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/30175574.png"
+  },{
+    "codigo": "30175573",
+    "nome": "AGUA MINERAL NATURAL SEM GAS",
+    "descricao": "FLUORETADA; RADIOATIVA; GARRAFA PLASTICA DE 500ML. DEVENDO POSSUIR PRAZO MÍNIMO DE 90 DIAS DO ENGARRAFAMENTO, CLARAMENTE EXPRESSO NA EMBALAGEM DO PRODUTO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/30175573.png"
+  },{
+    "codigo": "20366852",
+    "nome": "BATERIA ESTACIONARIA",
+    "descricao": "TENSÃO NOMINAL 12V; CAPACIDADE NOMINAL 115 Ah/ EM 100h A 25ºC ATÉ 10,5 (1,75V POR ELEMENTO); 95Ah EM 10h A 25ºc ATÉ 10,5 (1,75V POR ELEMENTO) COMPRIMENTO 329MM; LARGURA 172MM; ALTURA 218MM; PARA SISTEMAS DE RESERVA DE ENERGIA.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/20366852.png"
+  },{
+    "codigo": "30177705",
+    "nome": "CABO SINAL REDE COMPUTADOR",
+    "descricao": "4 PARES; 24 AWG; REVESTIMENTO EXTERNO PVC; COR AZUL; CATEGORIA UTP NIVEL 5E; CLASSE DE FLAMABILIDADE CMR; CABO MULTI-LAN.",
+    "almoxarifado": "G7",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/30177705.png"
+  },{
+    "codigo": "20372864",
+    "nome": "CAIXA EMENDA OPTICA",
+    "descricao": "COR PRETA; PARA 24 FIBRAS; COM CUPULA DA CAIXA E BASE INJETADOS EM PLASTICO ENGENHARIA; CONJUNTO DE BRACADEIRA INJETADOS EM PLASTICO DE ENGENHARIA (ABS); CAPACIDADE PARA ACOMODAR ATE 96 FIBRAS; GRAU IP68; ALTURA 540MM; DIAMETRO 250MM.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/20372864.png"
+  },{
+    "codigo": "30173641",
+    "nome": "CONECTOR MACHO",
+    "descricao": "PARA CABO UTP; BLINDADO; CATEGORIA 5; MODULAR (MACHO); FM732; TIPO RJ-45.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "BLINDADO",
+    "imagem": "./assets/img/30173641.png"
+  }
+]
