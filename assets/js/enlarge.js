@@ -6,7 +6,7 @@ function enlargedImage(imagem){
     divImage.style.display = 'block'
 }
 
-const btn = document.querySelector('button')
+const btn = document.querySelector('.close-image')
 btn.addEventListener('click', ()=>{
     divImage.style.display = 'none'
 })

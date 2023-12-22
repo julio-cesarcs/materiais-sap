@@ -1,0 +1,119 @@
+[
+  {
+    "codigo": 20322802,
+    "nome": "CORDAO TELEFONICO",
+    "descricao": "3 CONDUTORES; CORES AZUL, BRANCO E VERMELHO; CAPA EXTERNA COR CINZA;\nTERMINAIS ABERTOS; 24 AWG; COMPRIMENTO 1700MM; PA-RA APARELHO\nTELEFONICO",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20327169,
+    "nome": "CORDAO TELEFONICO",
+    "descricao": "3 CONDUTORES NAS CORES AZUL, BRANCO E VERMELHO; CAPA EXTERNA COR CINZA;\nTER MINAIS ABERTOS; 24AWG; COMPRIMENTO 500MM; PARA APARELHO TELEFONICO\nGTE",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20330468,
+    "nome": "SUPORTE CAPSULA",
+    "descricao": "TRANSMISSORA; PARA TELEFONE MODELO STAR-LITE-GTE",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20333414,
+    "nome": "INTERCOMUNICADOR",
+    "descricao": "PAREDE; DE BEGE E MARROM; CAMPAINHA ELETRONICA; BATERIA LOCAL; 1 TECLA\nPARA CHAMADA",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20334440,
+    "nome": "JUNCAO",
+    "descricao": "MACHO-FEMEA-FEMEA; 1.5/16\"; BAQUELITE PRETO; PARA UNIDADE DE SOM DAS\nSIRENES ELETRONICAS MODELO RT 27/600",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 10054548,
+    "nome": "SISTEMA COMUNICADO INTERNA",
+    "descricao": "SISTEMA COMUNICADO INTERNA",
+    "almoxarifado": "",
+    "centro": "",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 10054547,
+    "nome": "REDE TELEFONIA",
+    "descricao": "COMPOATA DE: DG-DUDA, CABOS, INTERFONESTELEX E FACSMILE; PERTENTENTE A EMERGENCIA RADIOLOGICA",
+    "almoxarifado": "",
+    "centro": "",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20322800,
+    "nome": "TOMADA TELEFONE",
+    "descricao": "TRIPOLAR; FEMEA; 3 PINOS REDONDO; COM PRENSA CABO; PRETA; PARA TELEFONE\nPORTATIL",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20331274,
+    "nome": "PINO TELEFONE",
+    "descricao": "4  POLOS; QUADRADO; POSICAO RADIAL; PINOS CHATOS DE LATAO; ABS; PRETO;\nPADRAO TELEBRAS",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20327175,
+    "nome": "CAMPAINHA TELEFONE EXTERNA",
+    "descricao": "TIMPANO DE 6\"; 48-75V.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169160,
+    "nome": "FIO ESPINAR",
+    "descricao": "CAPA DE PVC PRETA; BITOLA 18 BWG (1,24MM); PARA ESPINAMENTO; ACO\nCARBONO; ESPECIFICACAO TELEBRAS 235140719/01; ROLO COM 130 METROS.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20370235,
+    "nome": "CONECTOR LINEAR",
+    "descricao": "PARA EMENDA DE SANGRIA",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30177710,
+    "nome": "CANALETA",
+    "descricao": "SISTEMA X; BRANCA; LARGURA 20MM; ALTURA 12MM; COMPRIMENTO 2000MM.",
+    "almoxarifado": "G5",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "../assets/img/sem-imagem.png"
+  }
+]

@@ -1,26 +1,92 @@
+header {
+    background-color: #4169e1;
+    color: #fff;
+    text-align: center;
+    padding: .5rem;
+    margin: 0 1rem;
+}
+
 main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1rem;
+    padding: 0 1rem;
 }
 
-#filter{
+#filter {
     display: flex;
     flex-direction: row;
     align-self: start;
 }
 
-#filterEquipment{
-    margin: 1rem;
-    padding: .5rem;
+.th-header {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
 }
+
+#column-code {
+    width: 10%;
+}
+
+#column-name {
+    width: 20%;
+}
+
+#column-description {
+    width: 40%;
+}
+
+#column-observation {
+    width: 15%;
+}
+
+#column-image {
+    width: 15%;
+}
+
+.btn-search-code,
+.btn-close-code,
+.btn-search-name,
+.btn-close-name,
+.btn-search-description,
+.btn-close-description,
+.btn-search-observation,
+.btn-close-observation {
+    background-color: transparent;
+    border: none;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.search-code,
+.search-name,
+.search-description,
+.search-observation {
+    width: 100%;
+    display: none;
+}
+
+.close {
+    margin-right: 3px;
+}
+
+.filter-code,
+.filter-name,
+.filter-description,
+.filter-observation {
+    padding: .5rem .25rem;
+    margin-left: 3px;
+    width: calc(100% - 40px);
+}
+
 
 #table {
     width: 100%;
     height: 100%;
-    margin: 1px;
+    margin: 0 1px 1rem;
 }
 
 table {
@@ -34,40 +100,49 @@ td {
     border-collapse: collapse;
 }
 
-thead{
+.header {
     position: sticky;
-    top: 0px;
-    box-shadow: 0 -1px 0 0 #4169e1;
+    top: -1px;
 }
 
-th{
-   background-color: #4169e1;
-   color: #fff;
-   padding: .5rem 0;
+th {
+    background-color: #4169e1;
+    color: #fff;
+    padding: .5rem 0;
 }
 
-td{
+td {
     padding: 1rem;
 }
+
 
 tbody tr:hover {
     background-color: rgb(175, 219, 236);
 }
 
-.odd-row{
+.odd-row {
     background-color: #eee;
 }
 
-img{
+img {
     width: 100%;
 }
 
 
-tbody tr img:hover{
+tbody tr img:hover {
     cursor: pointer;
 }
 
-.panel{
+
+a{
+    color: #000;
+}
+
+a:visited{
+    color: #000;
+}
+
+.panel {
     display: none;
     position: fixed;
     top: 50%;
@@ -75,7 +150,7 @@ tbody tr img:hover{
     transform: translate(-50%, -50%);
 }
 
-.enlarged-image{
+.enlarged-image {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -88,12 +163,24 @@ tbody tr img:hover{
     border: 1px solid #000;
 }
 
-.enlarged-image img{
+.enlarged-image img {
     width: 400px;
     height: 400px;
 }
 
-.enlarged-image button{
+.enlarged-image button {
     padding: 5px;
     margin-top: 5px;
+}
+
+.close-image {
+    cursor: pointer;
+}
+
+footer {
+    background-color: #4169e1;
+    color: #fff;
+    text-align: center;
+    padding: .5rem;
+    margin: 0 1rem;
 }

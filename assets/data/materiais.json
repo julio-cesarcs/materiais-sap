@@ -1,6 +1,6 @@
 [
   {
-    "codigo": 20371699,
+    "codigo": "20371699",
     "nome": "ABRACADEIRA",
     "descricao": "PARA CONDULETE; PVC 1\"; COM FECHO DE SISTEMA \"CLIC\"; COR CINZA.",
     "almoxarifado": "G8",
@@ -9,7 +9,7 @@
     "imagem": "./assets/img/20371699.png"
   },
   {
-    "codigo": 30168755,
+    "codigo": "30168755",
     "nome": "COPO PLÁSTICO DESCARTÁVEL",
     "descricao": "COR BRANCO LEITOSO; MATERIAL. EM POLIPROPILENO (PP); CAPACIDADE 200MÇ; CAIXA COM 25 CENTOS(2.500 UNIDADES), O MATERIAL DEVE ESTAR DE ACORDO COM A nbr 14.865 / 2012",
     "almoxarifado": "G7",
@@ -18,14 +18,15 @@
     "imagem": "./assets/img/30168755.png"
   },
   {
-    "codigo": 20370425,
+    "codigo": "20370425",
     "nome": "CABO DE MANOBRA UTP",
     "descricao": "COBRE ELETROLITICO. FLEXIVEL. FORMADO POR 7 FILAMENTOS DE DIAMETRO NOMINAL DE 0,20MM. CLASSE DE FLAMEABIIDADE: LSZH. NA COR AZUL. COMPRIMENTO: 1,5 M. COM CONECTOR RJ 45 NAS EXTREMIDADES. RESISTÊNCIA MAXIMA DO CONDUTOR: 93,8 Q/KM. CAPACITANCIA MUTUA MAXIMA EM 1 KHZ: 56 PF/M. IMPEDANCIA CARACTERISTICA: 100+15%0. DIFERENÇA ENTRE ATRASO DE PRGAMAÇÃO MAXIMO: 45 NS/100M. CATEGORIA €(CATE). CERIFICACAO: ANATEL LSZH: 2521-09-0256. NORMA: NBR 14565.",
     "almoxarifado": "G8",
     "centro": "C24N",
     "observacao": "",
     "imagem": "./assets/img/20370425.png"
-  },{
+  },
+  {
     "codigo": "30175574",
     "nome": "AGUA MINERAL NATURAL COM GAS",
     "descricao": "FLUORETADA; RADIOATIVA; GARRAFA PLASTICA DE 500ml. DEVENDO POSSUIR PRAZO MÍNIMO DE 90 DIAS DO ENGARRAFAMENTO, CLARAMENTE EXPRESSO NA EMBALAGEM DO PRODUTO.",
@@ -33,7 +34,8 @@
     "centro": "C26N",
     "observacao": "",
     "imagem": "./assets/img/30175574.png"
-  },{
+  },
+  {
     "codigo": "30175573",
     "nome": "AGUA MINERAL NATURAL SEM GAS",
     "descricao": "FLUORETADA; RADIOATIVA; GARRAFA PLASTICA DE 500ML. DEVENDO POSSUIR PRAZO MÍNIMO DE 90 DIAS DO ENGARRAFAMENTO, CLARAMENTE EXPRESSO NA EMBALAGEM DO PRODUTO.",
@@ -41,15 +43,8 @@
     "centro": "C26N",
     "observacao": "",
     "imagem": "./assets/img/30175573.png"
-  },{
-    "codigo": "20366852",
-    "nome": "BATERIA ESTACIONARIA",
-    "descricao": "TENSÃO NOMINAL 12V; CAPACIDADE NOMINAL 115 Ah/ EM 100h A 25ºC ATÉ 10,5 (1,75V POR ELEMENTO); 95Ah EM 10h A 25ºc ATÉ 10,5 (1,75V POR ELEMENTO) COMPRIMENTO 329MM; LARGURA 172MM; ALTURA 218MM; PARA SISTEMAS DE RESERVA DE ENERGIA.",
-    "almoxarifado": "G1",
-    "centro": "C24N",
-    "observacao": "",
-    "imagem": "./assets/img/20366852.png"
-  },{
+  },
+  {
     "codigo": "30177705",
     "nome": "CABO SINAL REDE COMPUTADOR",
     "descricao": "4 PARES; 24 AWG; REVESTIMENTO EXTERNO PVC; COR AZUL; CATEGORIA UTP NIVEL 5E; CLASSE DE FLAMABILIDADE CMR; CABO MULTI-LAN.",
@@ -57,7 +52,8 @@
     "centro": "C24N",
     "observacao": "",
     "imagem": "./assets/img/30177705.png"
-  },{
+  },
+  {
     "codigo": "20372864",
     "nome": "CAIXA EMENDA OPTICA",
     "descricao": "COR PRETA; PARA 24 FIBRAS; COM CUPULA DA CAIXA E BASE INJETADOS EM PLASTICO ENGENHARIA; CONJUNTO DE BRACADEIRA INJETADOS EM PLASTICO DE ENGENHARIA (ABS); CAPACIDADE PARA ACOMODAR ATE 96 FIBRAS; GRAU IP68; ALTURA 540MM; DIAMETRO 250MM.",
@@ -65,7 +61,8 @@
     "centro": "C24N",
     "observacao": "",
     "imagem": "./assets/img/20372864.png"
-  },{
+  },
+  {
     "codigo": "30173641",
     "nome": "CONECTOR MACHO",
     "descricao": "PARA CABO UTP; BLINDADO; CATEGORIA 5; MODULAR (MACHO); FM732; TIPO RJ-45.",
@@ -73,5 +70,1405 @@
     "centro": "C26N",
     "observacao": "BLINDADO",
     "imagem": "./assets/img/30173641.png"
+  },
+  {
+    "codigo": "30173380",
+    "nome": "CADEADO",
+    "descricao": "LATAO; DUAS TRAVAS; LARGURA 25MM.",
+    "almoxarifado": "",
+    "centro": "",
+    "observacao": "",
+    "imagem": "./assets/img/30173380.png"
+  },
+  {
+    "codigo": "30173946",
+    "nome": "CADEADO",
+    "descricao": "LATAO; DUAS TRAVAS; LARGURA 30MM.",
+    "almoxarifado": "",
+    "centro": "",
+    "observacao": "",
+    "imagem": "./assets/img/30173946.png"
+  },
+  {
+    "codigo": "30173134",
+    "nome": "CADEADO",
+    "descricao": "LATAO; DUAS TRAVAS; LARGURA 40MM.",
+    "almoxarifado": "",
+    "centro": "",
+    "observacao": "",
+    "imagem": "./assets/img/30173134.png"
+  },
+  {
+    "codigo": "30173818",
+    "nome": "CADEADO",
+    "descricao": "LATAO; DUAS TRAVAS; LARGURA 50MM.",
+    "almoxarifado": "",
+    "centro": "",
+    "observacao": "",
+    "imagem": "./assets/img/30173818.png"
+  },
+  {
+    "codigo": "10059485",
+    "nome": "SISTEMA DE SUPERVISÃO TV",
+    "descricao": "TV SUPERVISION SYSTEM",
+    "almoxarifado": "N/A",
+    "centro": "C24",
+    "observacao": "",
+    "imagem": "./assets/img/sistema.png",
+    "src": "pages/cyp.html"
+  },
+  {
+    "codigo": "30179594",
+    "nome": "SISTEMA DE NOTIFICAÇÃO PUBLICA",
+    "descricao": "DO PLANO DE EMERGENCIA LOCAL DA CENTRAL NUCLEAR DE ANGRA",
+    "almoxarifado": "N/A",
+    "centro": "C24",
+    "observacao": "",
+    "imagem": "./assets/img/sistema.png",
+    "src": "pages/snp.html"
+  },
+  {
+    "codigo": "10054538",
+    "nome": "SISTEMA DE TELEFONIA",
+    "descricao": "COMPOSTO DE: EQUIPAMENTOS DE COMUNICAÇÃO, AUDIO E REDE. \n SYSTEM, TELEPHONY",
+    "almoxarifado": "N/A",
+    "centro": "C24",
+    "observacao": "",
+    "imagem": "./assets/img/sistema.png",
+    "src": "pages/tel.html"
+  },
+  {
+    "codigo": "10056273",
+    "nome": "SISTEMA DETECCAO ALARME INCENDIO",
+    "descricao": "ALMOXARIFADO PONTA FINA.",
+    "almoxarifado": "N/A",
+    "centro": "C24",
+    "observacao": "",
+    "imagem": "./assets/img/sistema.png",
+    "src": "pages/pci.html"
+  },
+  {
+    "codigo": "10059066",
+    "nome": "SISTEMA ELETROACUSTICO / INTERFONIA CYC",
+    "descricao": "-",
+    "almoxarifado": "N/A",
+    "centro": "C24",
+    "observacao": "",
+    "imagem": "./assets/img/sistema.png",
+    "src": "pages/cyc.html"
+  },
+  {
+    "codigo": 20371700,
+    "nome": "ABRACADEIRA PLASTICA PARA TUBO PVC 3/4",
+    "descricao": "PLASTICA, COR CINZA; PARA TUBO PVC 3/4\"; COM FECHO DE SISTEMA \"CLIC\".",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20372805,
+    "nome": "ABRACADEIRA",
+    "descricao": "BAP4; ACO CARBONO; GALVANIZADO A FOGO; ESPESSURA 2MM; LARGURA 30MM; COMPRIMENTO 1000MM; COM 22 FUROS OBLONGOS DE 11 X 18MM; COMPOSTA DE PARAFUSO DE AJUSTAGEM; PORCA; ARRUELA LISA; TODOS  GALVANIZADOS.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167894,
+    "nome": "ABRACADEIRA",
+    "descricao": "TIPO UNHA; ACO CARBONO; DIAMETRO NOMINAL DO TUBO 1\"; COM BASE; DIAMETRO\nDO FURO 1/4\"; GALVANIZACAO ELETROLITICA.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168704,
+    "nome": "ABRACADEIRA",
+    "descricao": "ACO INOXIDAVEL; DIAMETRO REGULAVEL 152 A 171MM; COM PARAFUSO INOX COM\nROSCA SEM FIM; LARGURA DE 9/16\"; ESPESSURA 1/32\".",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30170730,
+    "nome": "ABRACADEIRA",
+    "descricao": "ACO INOXIDAVEL; DIAMETRO REGULAVEL DE 25 A 38MM; COM PARAFUSO COM ROSCA SEM FIM; LARGURA DE 10 A 14MM; ESPESSURA 1/32\".",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30170894,
+    "nome": "ABRACADEIRA",
+    "descricao": "ACO INOXIDAVEL; DIAMETRO REGULAVEL DE 70 A 89MM; COM PARAFUSO COM ROSCA SEM FIM; LARGURA DE 9/16\"; ESPESSURA 1/32\".",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30170895,
+    "nome": "ABRACADEIRA",
+    "descricao": "ACO INOXIDAVEL; DIAMETRO REGULAVEL  89 A 108MM; COM PARAFUSO COM ROSCA\nSEM FIM; LARGURA DE 9/16\"; ESPESSURA 1/32\".",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30171236,
+    "nome": "ABRACADEIRA",
+    "descricao": "ACO CARBONO; GALVANIZACAO ELETROLITICA; DIAMETRO REGULAVEL 102 A 121MM;\nCOM PARAFUSO COM ROSCA SEM FIM; LARGURA DE 9/16\"; ESPESSURA 1/32\".",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173558,
+    "nome": "ABRACADEIRA",
+    "descricao": "NYLON; AUTO-TRAVANTE; COR BRANCO LEITOSO; LARGURA 13MM A 14MM; COMPRIMENTO 530MM A 540MM; DIAMETRO MAXIMO: 140MM A 150MM.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30177647,
+    "nome": "ABRACADEIRA",
+    "descricao": "PLASTICA, COR CINZA; PARA TUBO PVC 1\"; COM FECHO DE SISTEMA \"CLIC\".",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20369587,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; LARGURA 5MM; COMPRIMENTO TOTAL 190MM; COM ACAO DE FECHAMENTO AUTO-TRAVANTE, SEM RETORNO",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168673,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; LARGURA 2,5MM; COMPRIMENTO TOTAL 101MM; DIAMETRO MAXIMO 20MM; COM ACAO DE FECHAMENTO AUTOTRAVANTE, SEM  RETORNO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168674,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "NYLON; COM RANHURAS; LARGURA DE 7,8MM; COMPRIMENTO TOTAL 230MM; DIAMETRO MAXIMO DE 56MM; COM ACAO DE FECHAMENTO AUTO-TRAVANTE; SEM RETORNO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169019,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; LARGURA 7,8MM; COMPRIMENTO TOTAL 390MM; DIAMETRO MAXIMO 104MM; COM ACAO DE FECHAMENTO AUTO TRAVANTE SEM RETORNO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169391,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; LARGURA 3,6MM; COMPRIMENTO TOTAL 150MM; DIAMETRO MAXIMO 35MM; COM ACAO DE FECHAMENTO AUTO-TRAVANTE; SEM RETORNO; INCOLOR.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30170118,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "NYLON; COM RANHURAS; LARGURA: 7MM A 8MM; COMPRIMENTO TOTAL: 370MM A 390MM; DIAMETRO MAXIMO 104MM A 110MM.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30170119,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; LARGURA 4MM; COMPRIMENTO TOTAL 180MM; DIAMETRO MAXIMO 48,3MM.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30171731,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; LARGURA 4,8MM; COMPRIMENTO TOTAL 400MM; DIAMETRO MAXIMO 113MM; COM ACAO DE FECHAMENTO AUTO-TRAVANTE SEM RETORNO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30171732,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; COMPRIMENTO TOTAL 190MM; LARGURA 4,8MM; DIAMETRO MAXIMO 43MM; COM ACAO DE FECHAMENTO AUTO-TRAVANTE SEM RETORNO; INCOLOR",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173926,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; LARGURA 2,5MM; COMPRIMENTO TOTAL 200MM; COM ACAO DE FECHAMENTO AUTO-TRAVANTE; SEM RETORNO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173927,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; LARGURA 3,6 A 4MM; COMPRIMENTO TOTAL 300 A 365MM; COM ACAO DE FECHAMENTO AUTO-TRAVANTE; SEM RETORNO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30174349,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; LARGURA 2,5MM A 4MM; COMPRIMENTO TOTAL 140MM A 160MM; COM ACAO DE FECHAMENTO AUTO-TRAVANTE, SEM RETORNO;",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30174352,
+    "nome": "ABRACADEIRA ISOLANTE",
+    "descricao": "COM RANHURAS; NYLON; LARGURA 4,8MM; COMPRIMENTO TOTAL 280MM; COM ACAO DE FECHAMENTO AUTO-TRAVANTE, SEM RETORNO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20370448,
+    "nome": "TAMPA",
+    "descricao": "2P+T (1X), ESPECIFICAÇÃO TÉCNICA EP-9002174, REVISÃO 2",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20370847,
+    "nome": "TAMPA",
+    "descricao": "TOMADA NBR COM DOIS FUROS PARA CONECTORES RJ45 PARA CANALETA DE PISO EM ALUMINIO EXTRUDADO MONOBLOCO LIGA 6060-T5 PARAMAGNETICA COM TOTAL BLINDAGEM ELETROMAGNETICA.TAMPAS COM OU SEM JANELAS EM ABS RETARDADOR DE CHAMAS INJETADAS.ENCAIXE INTERNOS EXCLUSIVOS TIPO FACA QUE LIBERAM AS LATERAIS COM TOLERANCIA MAXIMA DE 1MM.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371728,
+    "nome": "TAMPA",
+    "descricao": "PVC; PARA CONDULETE TOP 1\" E CONECTOR RJ45, COR CINZA.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371736,
+    "nome": "TAMPA",
+    "descricao": "CURVA HORIZONTAL 90º; LISA TIPO U 125X50; ACO CARBONO SAE 1008-1010/ NBR 11888-2 / NBR 7013; GALVANIZADO A FOGO; REF. 510-1-A (A=125)",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371737,
+    "nome": "TAMPA",
+    "descricao": "CURVA VERTICAL EXTERNA; ACO CARBONO SAE 1008-1010/NBR 11888-2 / NBR 7013 GALVANIZADO A FOGO; REF. MG 530-1-A-B-60 (A=125).",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371738,
+    "nome": "TAMPA",
+    "descricao": "CURVA VERTICAL INTERNA 90º; ACO CARBONO SAE 1008-1010/NBR 11888-2 / NBR 7013; GALVANIZADO A FOGO; REF. MG 541-1-A (A=1250).",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371739,
+    "nome": "TAMPA",
+    "descricao": "DESVIO A DIREITA; LISA; ACO CARBONO SAE 1008-1-1/NBR 11888-2 / NBR 7013; GALVANIZADO A FOGO; REF. MG 593-1A (A=125).",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371740,
+    "nome": "TAMPA",
+    "descricao": "DESVIO A ESQUERDA; LISA; ACO CARBONO SAE 1008-1-1/NBR 11888-2 / NBR 7013; GALVANIZADO A FOGO; REF. MG 594-1A (A=125).",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371741,
+    "nome": "TAMPA",
+    "descricao": "ENCAIXE PARA CALHA LISA 125X50X3000; ACO CARBONO SAE 1008-1-1/ NBR 11888-2/ NBR 7013; GALVANIZADO A FOGO; REF. MG 2084.",
+    "almoxarifado": "G5",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371723,
+    "nome": "TAMPA CEGA",
+    "descricao": "PVC; PARA CONDULETE TOP 1\"; COR CINZA.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371726,
+    "nome": "TAMPA CEGA",
+    "descricao": "PVC; PARA CONDULETE TOP 3/4\"; COR CINZA.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371724,
+    "nome": "TAMPA CEGA VER CM 566351",
+    "descricao": "PVC; PARA CONDULETE TOP 1\"; COR CINZA.",
+    "almoxarifado": "G7",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167551,
+    "nome": "APARELHO TELEFONICO ANALOGICO",
+    "descricao": "CAIXA CONTENDO PECAS DE APARELHO TELEFONICO DE DIVERSAS MARCAS",
+    "almoxarifado": "G9",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30166937,
+    "nome": "CAIXA CONTENDO APARELHOS TELEFONICOS",
+    "descricao": "CAIXA CONTENDO APARELHOS TELEFONICOS",
+    "almoxarifado": "G9",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30166938,
+    "nome": "CAIXA CONTENDO CABOS DE REDE UTP",
+    "descricao": "CAIXA CONTENDO CABOS DE REDE UTP'S, REFERENTE AS TENDAS 1, 2, 3 E CONTAINERES",
+    "almoxarifado": "G8",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167159,
+    "nome": "CAIXA CONTENDO DIVERSOS MAT. TEL. CISCO",
+    "descricao": "MANUAIS, BATERIAS, NOBREAK SMART XL, SUPORTES PARA FIXAR NOBREAK NO RACK, E NOBREAK 3000APC",
+    "almoxarifado": "G9",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167168,
+    "nome": "CAIXA CONTENDO DIVERSOS MAT. TELEFONICO",
+    "descricao": "CAIXA COM DIVERSOS MATERIAIS TELEFONICOS: 28 TAMPAS DE ELETROCALHA, 05 TERMINAIS DA ELETROCALHA, 13 TAMPAS COM CONETOR E TOMADA, 06 CURVAS DE ALUMINIO, 15 TAMPAS TAMANHO PEQUENO",
+    "almoxarifado": "G9",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167622,
+    "nome": "CAIXA CONTENDO MATERIAIS DIVERSOS",
+    "descricao": "CAIXA CONTENDO ITENS DE TELECOMUNICACÕES CONFORME LISTA ANEXA.",
+    "almoxarifado": "G9",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167155,
+    "nome": "CAIXA MADEIRA COM DIVERSOS TELEFONES IP",
+    "descricao": "CAIXA DE MADEIRA CONTENDO DIVERSOS APARELHO TELEFONICO (CISCO IP)",
+    "almoxarifado": "G9",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167244,
+    "nome": "DETECTOR LINEAR DE FUMACA",
+    "descricao": "INFRAVERMELHO ATIVO, ALIMENTAÇÃO 24VDC, COM CENTRAL DE MONITORAÇÃO E ALIMENTAÇÃO ELÉTRICA, ELEMENTO TRANSMISSOR E RECEPTOR EM CORPO SEPARADO, CONTATO SECO PARA ALARME DE INCENDIO E DE FALHA, DISTANCIA MÍNIMA ENTRE O TRANSMISSOR E O RECEPTOR 100 (CEM) METROS E 15 (QUINZE) METROS DE COBERTURA LATERAL, CADA EQUIPAMENTO DEVERÁ POSSUIR UMA UNIDADE DE ALIMENTAÇÃO ININTERRUPTA (NO BREAK), COM BATERIAS E CARREGADOR.",
+    "almoxarifado": "G1",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167699,
+    "nome": "MINI RACK COM KIT VENTILACAO",
+    "descricao": "PORTA FRONTAL EM VIDRO TEMPERADO, FECHAMENTO COM CHAVE, ESTRUTURA EM CHAPA DE ACO, COM KIT VENTILACAO CONFORME REQ. 10240323",
+    "almoxarifado": "G9",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167524,
+    "nome": "MODULO TORRE",
+    "descricao": "CONJUNTO DE MODULO DE TORRE",
+    "almoxarifado": "G13",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167561,
+    "nome": "NO BREAK E BANCO BATERIA",
+    "descricao": "NO-BREAK APC SMART 1000XL (03); BANCO BATERIA APC (06)",
+    "almoxarifado": "G9",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167584,
+    "nome": "PATCH CORD F/UTP CAT6.A 3,0M",
+    "descricao": "-",
+    "almoxarifado": "G9",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167363,
+    "nome": "SISTEMA DE SIRENE",
+    "descricao": "MATERIAL PARA O SISTEMA DE SIRENE (PEL), REQ.10104332, 10170825",
+    "almoxarifado": "G8",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167560,
+    "nome": "SWITCHES E VG'S DIVERSOS",
+    "descricao": "DIVERSAS CAIXAS CONTENDO SWITCHES E VG'S, CONFORME RELACAO ANEXO NO PROCESSO",
+    "almoxarifado": "G9",
+    "centro": "Z24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30170185,
+    "nome": "CABO ELETRICO",
+    "descricao": "1 CONDUTOR; COBRE TEMPERA MOLE; SECAO NOMINAL 1,5MM2; FORMACAO 10 FIOS; ISOLAMENTO DE PVC ANTI CHAMA PRETO 500V; TIPO BWF; ABNT NM 247-5.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172042,
+    "nome": "CAIXA EMENDA VENTILADA 165X115X740MM",
+    "descricao": "POLIETILENO; ALTURA  165MM; LARGURA  115MM; COMPRIMENTO  740MM; PADRAO ELETROBRAS.",
+    "almoxarifado": "G7",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30170962,
+    "nome": "CORRENTE CARGA",
+    "descricao": "ELOS SOLDADOS; ACO CARBONO; COMPRIMENTO EXTERNO DO ELO 22MM; LARGURA EXTERNA DO ELO 13MM; DIAMETRO DA SECAO 3MM; GALVANIZACAO ELETROLITICA",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169321,
+    "nome": "CURVA ELETRODUTO RIGIDO",
+    "descricao": "90 GRAUS; ACO CARBONO; COM COSTURA; DIAMETRO NOMINAL 1.1/2\"; ROSCA NPT; GALVANIZACAO POR IMERSAO A QUENTE; ABNT EB- 341",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169235,
+    "nome": "FIO TELEFONICO EXTERNO",
+    "descricao": "2 CONDUTORES; LIGA DE COBRE; DIAMETRO 1,00MM; ISOLAMENTO DE PVC PRETO; IDENTIFICACAO POR SALIENCIA PERCEPTIVEL AO TATO; TIPO FE-100; TELEBRAS 235-320-707.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30175776,
+    "nome": "FIO TELEFONICO INTERNO",
+    "descricao": "2 CONDUTORES; DIAMETRO 0,50MM; CONDUTORES COBRE ESTANHADO; TORCIDO TEMPERA MOLE; ISOLAMENTO DE PVC VERMELHO E BRNACO; TIPO FDG; NORMAS 235-310-705 (TELEBRAS) E NBR 9123.",
+    "almoxarifado": "G7",
+    "centro": "C24N",
+    "observacao": "FIO FDG JUMPER (V/B)",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169543,
+    "nome": "FIO TELEFONICO INTERNO 2X22AWG",
+    "descricao": "2 CONDUTORES; COBRE ESTANHADO; TEMPERA MOLE; DIAMETRO 0,60MM; ISOLAMENTO DE PVC CINZA; IDENTIFICACAO POR SALIENCIA PERCEPTIVEL AO TATO; TIPO FI; TELEBRAS 235-310-704",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168664,
+    "nome": "PARAFUSO CABECA ESCAREADA",
+    "descricao": "CHATA; COM FENDA; LATAO; NUMERO DE REFERENCIA 4; COMPRIMENTO NOMINAL 16MM; ROSCA AUTO-ATARRACHANTE.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172078,
+    "nome": "PARAFUSO CABECA ESCAREADA",
+    "descricao": "CHATA; FENDA; ACO CARBONO BICROMATIZADO; DIAMETRO NOMINAL 6MM; ROSCA METRICA GROSSA TOTAL; PASSO 1.00MM; COMPRIMENTO NOMINAL 20MM; PONTA PLANA.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168672,
+    "nome": "PARAFUSO CABECA REDONDA",
+    "descricao": "COM FENDA; LATAO; DIAMETRO NOMINAL 3/16\"; COMPRIMENTO TOTAL 1.1/2\"; ROSCA UNC TOTAL.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169611,
+    "nome": "PARAFUSO CABECA SEXTAVADA",
+    "descricao": "ACO CARBONO; DIAMETRO NOMINAL 5/16 IN; COMPRIMENTO NOMINAL 2 IN; ROSCA UNF; BICROMATIZADO; COMPRIMENTO DA ROSCA 15/16 IN.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30177946,
+    "nome": "PROTETOR CONTRA SURTO",
+    "descricao": "PARA CABO COAXIAL; PARA DOIS CONDUTORES (VIVO E MALHA); CONEXOES ENTRADA E SAIDA TIPO BCN FEMEA; NORMA IEC 61643-21; PROTECAO POR CENTELHADOR A GAS E DIODO DE AVALANCHE-TENSAO MAX. SERVICO 20V; GRAU PROTECAO IP 20.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169400,
+    "nome": "TRANSISTOR POTENCIA",
+    "descricao": "SILICIO; NPN",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20370426,
+    "nome": "CABO ELETRICO",
+    "descricao": "GIGALAN UUTP 23AWGX4P CAT.6 CM VM RoHS; (PARA 1.500 PONTOS); SISTEMA DE CABEAMENTO ESTRUTURADO PARA TRAFEGO DE VOZ, DADOS E IMAGENS, SEGUNDO REQUISITOS DA NORMA ANSI/TIA/EIA-568-B.2-1 CATEGORIA 6, PARA CABEAMENTO PRIMARIO E SECUNDARIO ENTRE OS PAINEIS DE DISTRIBUICAO (PATCH PANELS) OU CONECTORES NAS AREAS DE TRABALHO, EM SISTEMAS QUE REQUEIRAM GRANDE MARGEM DE SEGURANCA SOBRE AS ESPECIFICACOES NORMALIZADAS PARA GARANTIA DE SUPORTE AS APLICACOES FUTURAS; O CABO UTILIZADO DEVERA POSSUIR CERTIFICACAO ANATEL IMPRESSAS NA CAPA; O PRODUTO DEVE CUMPRIR COM OS REQUISITOS QUANTO A TAXA MAXIMA DE COMPOSTOS QUE NAO AGRIDAM AO MEIO AMBIENTE CONFORME A NORMA ROHS; POSSUIR IMPRESSO NA CAPA EXTERNA NOME DO FABRICANTE, MARCA DO PRODUTO, E SISTEMA DE RASTREABILIDADE QUE PERMITA IDENTIFICAR A DATA DE FABRICACAO DOS CABOS; SER COMPOSTO POR CONDUTORES DE COBRE SOLIDO; CAPA EXTERNA EM PVC NAO PROPAGANTE A CHAMA, FORNECIMENTO NAS CORES AZUL OU VERMELHA; DEVE ATENDER AO CODIGO DE CORES ESPECIFICADO: PAR 1: AZUL-BRANCO, COM UMA FAIXA AZUL (STRIPE) NO CONDUTOR BRANCO, PAR 2: LARANJA-BRANCO, COM UMA FAIXA LARANJA (STRIPE) NO CONDUTOR BRANCO, PAR 3: VERDE-BRANCO, COM UMA FAIXA VERDE (STRIPE) NO CONDUTOR BRANCO E PAR 4: MARROM-BRANCO, COM UMA FAIXA MARROM (STRIPE) NO CONDUTOR BRANCO; EXCEDER AS CARACTERISTICAS ELETRICAS CONTIDAS NA NORMA ANSI/TIA/EIA-568-B.2-1 CATEGORIA 6; IMPEDANCIA CARACTERISTICA DE 100 (OHMS); DEVERA SER APRESENTADO ATRAVES DE CATALOGOS, TESTES DAS PRINCIPAIS CARACTERISTICAS ELETRICAS EM TRANSMISSOES DE ALTAS VELOCIDADE (VALORES TIPICOS) DE ATENUACAO (DB/100 M), NEXT (DB), PSNEXT (DB), RL (DB), ACR (DB), PARA FREQUENCIA DE 100, 200, 350 E 550 MHZ;  FORNECIDO EM CAIXA COM NO MÍNIMO 300 METROS.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169991,
+    "nome": "CAIXA EMENDA VENTILADA",
+    "descricao": "POLIETILENO; ALTURA  142MM; LARGURA  90MM; COMPRIMENTO  650MM;  PADRAO TELEBRAS.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20370434,
+    "nome": "CONECTOR FEMEA",
+    "descricao": "GIGALAN CAT.6 PREMIUM - BEGE (RJ 45); SISTEMA DE CABEAMENTO ESTRUTURADO PARA TRÁFEGO DE VOZ, DADOS E IMAGENS, SEGUNDO REQUISITOS DA NORMA ANSI/TIA/EIA-568-B.2-1 CATEGORIA 6, PARA CABEAMENTO HORIZONTAL E SECUNDÁRIO, USO INTERNO, EM PONTO DE ACESSO NA ÁREA DE TRABALHO PARA TOMADAS DE SERVIÇOS EM SISTEMA ESTRUTURADOS DE CABEAMENTO E EM SISTEMAS QUE REQUEIRAM GRANDE MARGEM DE SEGURANCA SOBRE AS ESPECIFICACOES NORMALIZADAS PARA GARANTIA DE SUPORTE AS APLICACOES FUTURAS; TIPO DE CONECTOR: RJ-45; TER CORPO EM MATERIAL TERMOPLASTICO DE ALTO IMPACTO NAO PROPAGANTE A CHAMA QUE ATENDA A NORMA UL 94 V-0 (FLAMABILIDADE); POSSUIR PROTETORES 110IDC TRASEIROS PARA AS CONEXÕES E TAMPA DE  PROTECAO FRONTAL (DUST COVER) REMOVÍVEL E ARTICULADA COM LOCAL PARA INSERCAO, (NA PROPRIA TAMPA), DO �CONE DE IDENTIFICACAO; POSSUIR VIAS DE CONTATO PRODUZIDAS EM BRONZE FOSFOROSO COM CAMADAS DE 2,54 µM DE NIQUEL E 1,27µM DE OURO; APRESENTAR DISPONIBILIDADE DE FORNECIMENTO NAS CORES (BRANCA, BEGE, CINZA, VERMELHA, AZUL, AMARELA, MARROM, LARANJA, VERDE E PRETA); O KEYSTONE DEVE SER COMPATIVEL PARA AS TERMINACOES T-568A E T- 568B, SEGUNDO A ANSI/TIA/EIA-568-B.2; POSSUIR TERMINACAO DO TIPO 110 IDC (CONEXAO TRASEIRA) ESTANHADOS PARA PROTECAO CONTRA OXIDACAO E PERMITIR INSERCAO DE CONDUTORES (DIAMETROS) DE 22 AWG A 26 AWG, PERMITINDO ANGULOS E CONEXAO DO CABO, EM ATÉ 180 GRAUS; SUPORTAR CICLOS DE INSERCAO, NA PARTE FRONTAL, IGUAL OU SUPERIOR A 750 (SETECENTOS E CINQUENTA) VEZES COM CONECTORES RJ-45 E 200 INSERCOES COM RJ11; SUPORTAR CICLOS DE INSERCAO, IGUAL OU SUPERIOR A 200 (DUZENTAS) VEZES COM TERMINACOES 110 IDC; OS CONTATOS IDC DEVEM SER EM ANGULO DE 45º PARA MELHOR PERFORMANCE ELETRICA; IDENTIFICACAO DO CONECTOR COMO CATEGORIA 6 (C6), GRAVADO NA PARTE FRONTAL DO CONECTOR; EXCEDER AS CARACTERISTICAS ELETRICAS CONTIDAS NA NORMA ANSI/TIA/EIA-568-B.2-1 CATEGORIA 6; O PRODUTO DEVE CUMPRIR COM OS REQUISITOS QUANTO A TAXA MAXIMA DE COMPOSTOS QUE NAO AGRIDAM AO MEIO AMBIENTE CONFORME A DIRETIVA ROHS.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168178,
+    "nome": "ESTOPA BRANCA",
+    "descricao": "PRIMEIRA QUALIDADE; FIOS BRANCOS DE ALGODAO; NOVOS, LONGOS, RESISTENTES, MACIOS,ISENTOS DE AMIDO OU GOMA DE TECELAGEM; AUSENCIA DE OLEO, TERRA, TRAPOS, FIOS SINTETICOS, LIMALHAS, VARREDURAS DE FIACAO E OUTRAS SUJIDADES; TEOR DE UMIDADE 8% MAXIMO; EMBALADA EM FARDOS",
+    "almoxarifado": "G8",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20370689,
+    "nome": "EXTENSAO OPTICA",
+    "descricao": "CONECTORIZADA DUPLEX  02F MONOMODO (9/125 �m); CONECTOR = ST POLIMENTO = SPC; TAMANHO = 2,50M (KIT DIO A270); DIAMETRO EXTERNO PADRAO 2,0 MM; CLASSE DE FLAMABILIDADE COG; PADRAO DE CORES ABNT; EM CONFORMIDADE COM A NORMA NBR 14106; DIAMETRO EXTERNO PADRAO 2,0MM; CLASSE DE FLAMABILIDADE COG; PADRAO DE CORES ABNET; EM CONFORMIDADE COM A NORMA NBR 14106.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20322928,
+    "nome": "FIO TELEFONICO",
+    "descricao": "USO INTERNO; 2 CONDUTORES; DIAMETRO 0,50MM; CONDUTORES COBRE ESTANHADO; TORCIDO TEMPERA MOLE; ISOLAMENTO DE PVC PRETO E BRANCO; TIPO FDG; NORMAS 235-310-705 (TELEBRAS) E NBR 9123.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "FIO FDG JUMPER (P/B)",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20365951,
+    "nome": "FIO TELEFONICO INTERNO",
+    "descricao": "2 CONDUTORES; DIAMETRO 0,50MM; CONDUTORES COBRE ESTANHADO;  TORCIDO TEMPERA MOLE; ISOLAMENTO DE PVC PRETO E LARANJA; TIPO  FDG; NORMAS 235-310-705 (TELEBRAS) E NBR 9123.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "FIO FDG JUMPER (P/L)",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169139,
+    "nome": "LONA PLASTICA TERREIRO",
+    "descricao": "COR PRETA; LARGURA 8M; ESPESSURA 200 MICRA; BOBINA COM 100M",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168964,
+    "nome": "TERMINAL ELETRICO",
+    "descricao": "FEMEA CHATA; COBRE ESTANHADO; ISOLAMENTO PVC AMARELO; SECAO  NOMINAL DO CONDUTOR 10 A 12 AWG (4-6MM2); FIXACAO POR COMPRESSAO.",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30177994,
+    "nome": "CAIXA TERMINAL",
+    "descricao": "DE POSTE E FACHADA DE 10 PARES (TPF), COM COTO 5,00M FABRICADA EM POLIPROPILENO UTILIZADA NA TERMINAÇÃO DE CABOS TELEFONICOS E LIGAÇÃO DE FIOS EXTERNOS",
+    "almoxarifado": "G2",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168008,
+    "nome": "FITA ISOLANTE",
+    "descricao": "ADESIVA; PLASTICO  VINILICO; TEMPERATURA  MAXIMA DE SERVICO 80 À 90.C (ABNT PB-130 CLASSE Y); 0,19MM  DE  ESPESSURA; 19MM DE LARGURA; ROLO DE 20M; COR PRETA.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168745,
+    "nome": "FITA ISOLANTE",
+    "descricao": "ALTA FUSAO; ADESIVA; BORRACHA VULCANIZADA; TEMPERATURA MAXIMA DE SERVICO 90ºC (ABNT PB-130) CLASSE Y; 0,76 MM  DE  ESPESSURA; 19 A 25 MM DE LARGURA; ROLO DE 10 M; CONFORME ASTM-D-4388.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169729,
+    "nome": "FITA ISOLANTE",
+    "descricao": "ADESIVA; PLASTICO VINILICO; TEMPERATURA MAXIMA DE SERVICO DE 90.C (CLASSE A DA PB-130); 0,18 MM DE ESPESSURA X 19 MM DE LARGURA X 20 METROS; COR VERMELHA",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20324128,
+    "nome": "TRANSISTOR POTENCIA",
+    "descricao": "SILICIO; NPN.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169453,
+    "nome": "VASELINA LIQUIDA",
+    "descricao": "FRASCO DE 500ML.",
+    "almoxarifado": "G3",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172158,
+    "nome": "ALFINETE  CABECA  AZUL - CX 50 UNID",
+    "descricao": "PARA QUADRO DE AVISO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173044,
+    "nome": "ALFINETE CABECA AMARELA - CX 50 UNID",
+    "descricao": "PARA QUADRO DE AVISO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173043,
+    "nome": "ALFINETE CABECA BRANCA -  CX 50 UNID",
+    "descricao": "PARA QUADRO DE AVISO.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172160,
+    "nome": "ALFINETE CABECA PRETA - CX 50 UNID",
+    "descricao": "PARA QUADRO DE AVISO",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172159,
+    "nome": "ALFINETE CABECA VERMELHA - CX 50 UNID",
+    "descricao": "PARA QUADRO DE AVISO",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168881,
+    "nome": "BORRACHA COM PROTETOR PLASTICO",
+    "descricao": "COR BRANCA; FORMATO RETANGULAR 45X23X12mm.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168916,
+    "nome": "CANETA ESFEROGRAFICA AZUL",
+    "descricao": "CORPO E TAMPA DE PLASTICO; CARGA COR AZUL; ESCRITA NORMAL.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168871,
+    "nome": "CANETA ESFEROGRAFICA PRETA",
+    "descricao": "CORPO E TAMPA DE PLÁSTICO; CARGA COR; PRETA; ESCRITA NORMAL.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168873,
+    "nome": "CANETA HIDROGRAFICA VERMELHA",
+    "descricao": "CANETA FUTURA; CORPO E TAMPA DE PLÁSTICO; CARGA COR VERMELHA; PONTA DE NYLON; FORMATO CILINDRICO; DIÂMETRO 2.0 MM COMPRIMENTO 140MM.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168903,
+    "nome": "CORRETIVO LIQUIDO",
+    "descricao": "A BASE DE AGUA; ATÓXICO; EMBALAGEM DE 18ml.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168883,
+    "nome": "ELASTICO ESCRITORIO",
+    "descricao": "BORRACHA PURA; TAMANHO NÚMERO 18; LARGURA 2mm; COMPRIMENTO 70mm; CAIXA\n25g.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30177139,
+    "nome": "FITA ADESIVA INCOLOR 48MM",
+    "descricao": "CELULOSE; INCOLOR; LARGURA 48MM; ROLO 40 METROS.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/30177139.png"
+  },
+  {
+    "codigo": 30168869,
+    "nome": "LAPIS ESCRITORIO",
+    "descricao": "MINA DE GRAFITE TIPO 2; REVESTIMENTO DE MADEIRA FORMATO CILINDRICO/SEXTAVADO; SECAO 7mm; COMPRIMENTO 175mm.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172180,
+    "nome": "PAPEL COPIATIVO A3 -1PC -1RESMA-500-FLS",
+    "descricao": "GRAMATURA 75g/m2; COR BRANCA; PARA COPIADORAS E IMPRESSORAS LASER E JATO DE TINTA; FORMATO (420x297mm); EM PACOTE COM 500 FOLHAS.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168910,
+    "nome": "PAPEL COPIATIVO A4 - 1PC-1RESMA-500 FLS",
+    "descricao": "GRAMATURA DE 75G/M2;  COR BRANCA;  PARA COPIADORAS E IMPRESSORAS LASER E JATO DE  TINTA;  FORMATO (210x297MM);  EM  PACOTE  COM  500  FOLHAS.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30171974,
+    "nome": "PRANCHETA ESCRITORIO",
+    "descricao": "EUCATEX; COM PRENDEDOR PAPEIS NA PARTE SUPERIOR; LARGURA 237MM; COMPRIMENTO 330MM.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172163,
+    "nome": "CANETA MARCA TEXTO COR AMARELA",
+    "descricao": "LUMI-COLOR.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172165,
+    "nome": "CANETA MARCA TEXTO COR AZUL",
+    "descricao": "LUMI-COLOR.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172164,
+    "nome": "CANETA MARCA TEXTO COR VERDE",
+    "descricao": "LUMI-COLOR.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173041,
+    "nome": "COLA EM BASTÃO",
+    "descricao": "SEM SOLVENTE; 10g",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173140,
+    "nome": "PERFURADOR PAPEL 3 FUROS",
+    "descricao": "ACO CARBONO PINTADO; COM BASE PROTETORA PLASTICA; PARA 3 FUROS;\nPARA PERFURACAO MINIMA DE 10 FOLHAS POR VEZ; FURO DE 7MM DE DIAMETRO;\nCOM MARGEADOR, GUIA OU GABARITO PARA CENTRALIZAR FOLHAS; COM BANDEJA\n COLETORA.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168887,
+    "nome": "RÉGUA 30 CM",
+    "descricao": "PLÁSTICO TRANSPARENTE; UM LADO BISELADO",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "PAPELARIA",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20347319,
+    "nome": "ALTO FALANTE",
+    "descricao": "TIPO CORNETA A PROVA DE TEMPO; GRAU DE PROTECAO: IP65; POTENCIA NOMINAL: 30 W RMS; COM TRANSFORMADOR DE LINHA 100 V; COM \"TAPS\" DE AJUSTE DA POTENCIA; IMPEDANCIA DO DRIVE: 20 Ohm; FAIXA DE FREQUENCIA: 310 A 8000 HZ; PRESSAO ACUSTICA EM 20 W; 122 dB; DIMENSOES �237X286 MM; MATERIAL EM POLICARBONATO; COM ALCA EM ACO INOX; ENTRADA DE CABO: PRENSA CABO PG 13,5; COR CINZA RAL 7035",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20347320,
+    "nome": "ALTO FALANTE",
+    "descricao": "TIPO CORNETA A PROVA DE EXPLOSAO; GRAU DE PROTECAO IP65; POTENCIA NOMINAL 15W RMS; COM TRANSFORMADOR DE LINHA 100V; IMPEDANCIA DO DRIVE 20 OHM; FAIXA DE FREQUENCIA 150 A 20000HZ PRESSAO ACUSTICA EM 15W; 115dB; DIMENSOES DE 163 X 247MM; LIGA DE ALUMINIO; COM ALCA EM ACO INOXIDAVEL; ENTRADA DE CABO COM PRENSA CABO EX; COR CINZA.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20371756,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "ACO CARBONO SAE 1008-1010/ NBR 11888-2/ NBR 7013; GALVANIZADO A FOGO; REF. MG-2577-3 (1/4\"X5/8\" ROSCA UNC)",
+    "almoxarifado": "G8",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167754,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "COM CHANFRO EM AMBOS OS LADOS; ACO CARBONO; SAE 1020; DIAMETRO NOMINAL 5/16\"; ROSCA UNC; ANSI B18.2.2.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167756,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "COM CHANFRO EM AMBOS OS LADOS; ACO CARBONO; DIAMETRO NOMINAL 3/8\"; ROSCA UNC; CADMIADO, ANSI B18.2.2.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167762,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "COM CHANFRO EM AMBOS OS LADOS; ACO CARBONO; DIAMETRO NOMINAL 1/4\"; ROSCA UNC.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167764,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "COM CHANFRO EM AMBOS OS LADOS; ACO CAR- BONO; DIAMETRO NOMINAL 1/4\"; ROSCA UNC; GALVANIZACAO ELETROLITICA; ANSI B18.2.2",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167765,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "CHANFRO  EM  AMBOS OS LADOS; ACO  CARBONO; GALVANIZACAO  ELETROLITICA; DIAMETRO NOMINAL 5/32\"; ROSCA UNC.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30168566,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "COM  CHANFRO  EM  AMBOS  OS LADOS; ACO CARBONO; DIAMETRO NOMINAL 1/4\"; ROSCA  UNC;  POLIDO;  ANSI  B18.2.2",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30170896,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "COM CHANFRO EM AMBOS OS LADOS; AÇO INOXIDÁVEL ASTM A-194 GR.8; DIÂMETRO NOMINAL 3/8\"; ROSCA UNC.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30175253,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "COM CHANFRO EM AMBOS OS LADOS; ACO CARBONO; BICROMATIZADO; DIAMETRO NOMINAL 6MM; ROSCA METRICA; PASSO 1,5.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30175842,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "AÇO CARBONO; ASTM-A-563M; CHANFRO AMBOS OS LADOS; CADMIADO E BICROMATIZADO; DIÂMETRO NOMINAL 8MM; ROSCA MÉTRICA; PASSO 1.25",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30175944,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "COM CHANFRO EM AMBOS OS LADOS; ACO INOXIDAVEL AISI 304/A2-70; DIAMETRO NOMINAL 8MM; ROSCA METRICA; PASSO 1,25; DIN 934.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30175945,
+    "nome": "PORCA SEXTAVADA",
+    "descricao": "COM CHANFRO EM AMBOS OS LADOS; ACO INOXIDAVEL AISI 304; A2-70; DIAMETRO NOMINAL 10MM; ROSCA METRICA; PASSO 1,5; DIN 934.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20370435,
+    "nome": "RACK PISO PADRAO",
+    "descricao": "19\" # 44U = 1.955,80MM X 2.135MM X 870MM.",
+    "almoxarifado": "G5",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20370436,
+    "nome": "RACK PISO PADRAO",
+    "descricao": "19\" # 36U = 1.600 MMX1.800 MMX870MM.",
+    "almoxarifado": "G5",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167805,
+    "nome": "FUSIVEL",
+    "descricao": "CARTUCHO; VIROLA; VIDRO; NAO RENOVAVEL; ACAO RAPIDA; DIAMETRO EXTERNO DAS VIROLAS 6,35MM;COMPRIMENTO TOTAL 31,8MM; 10A; 250V",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169322,
+    "nome": "FUSIVEL",
+    "descricao": "VIROLA; VIDRO; NAO RENOVAVEL; ACAO RAPIDA; DIAMETRO EXTERNO DAS VIROLAS 5MM; COMPRIMENTO TOTAL 20MM; 2A; 250V.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169334,
+    "nome": "FUSIVEL",
+    "descricao": "CARTUCHO; VIROLA; VIDRO; NAO RENOVAVEL; ACAO RAPIDA; DIAMETRO EXTERNO\nDAS VIROLAS 5MM; COMPRIMENTO TOTAL 20MM; 10A; 250V; ABNT EB-54",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172990,
+    "nome": "FUSIVEL",
+    "descricao": "CARTUCHO; VIDRO; VIROLA COM FIO; NAO RENOVAVEL; ACAO RETARDADA; DIAMETRO DA VIROLA 5MM; COMPRIMENTO TOTAL 20MM; CORRENTE NOMINAL 1A; TENSAO NOMINAL 250VCA.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172996,
+    "nome": "FUSIVEL",
+    "descricao": "CARTUCHO; VIROLA; VIDRO; DIAMETRO EXTERNO DAS VIROLAS 6,35MM; COMPRIMENTO 31,5MM; 1,25A; 250V; CLASSE F CONFORME IEC127.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173721,
+    "nome": "FUSIVEL",
+    "descricao": "CARTUCHO VIDRO; NAO RENOVAVEL; ACAO RAPIDA; DIAMETRO DA VIROLA 5MM COMPRIMENTO TOTAL 20MM; CORRENTE 3A; TENSAO 250V.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30176634,
+    "nome": "FUSIVEL",
+    "descricao": "CARTUCHO; VIROLA; VIDRO; DIAMETRO EXTERNO DAS VIROLAS 6,35MM; COMPRIMENTO 31,5MM; 8A; 250V; CLASSE F CONFORME IEC127.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30176635,
+    "nome": "FUSIVEL",
+    "descricao": "CARTUCHO; VIROLA; VIDRO; DIAMETRO EXTERNO DAS VIROLAS 6,35MM; COMPRIMENTO 31,5MM; 5A; 250V; CLASSE F CONFORME IEC127.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20366736,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "TIPO AGLF; TENSAO NOMINAL 250VCA; CORRENTE NOMINAL 5A; VIROLA; VIDRO/ LATAO; NAO RENOVAVEL; ACAO NORMAL DIAMETRO DA VIROLAS 5 MM; COMPRIMENTO TOTAL 20 MM",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20366737,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "TENSAO NOMINAL 25VCA; CORRENTE NOMINAL 8A; TIPO 20AG; VIROLA; VIDRO/ LATAO; NAO RENOVAVEL; ACAO NORMAL; DIAMETRO DAS VIROLAS 5 MM; COMPRIMENTO TOTAL 20 MM.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20366738,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "TENSAO NOMINAL 250 V; CORRENTE NOMINAL 3A; DIAMETRO DAS VIROLAS 6,35 MM; COMPRIMENTO TOTAL 30MM; VIROLA; VIDRO/LATAO; NAO RENOVAVEL; ACAO NORMAL.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20366739,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "TENSAO NOMINAL 250V; CORRENTE NOMINAL 5A; DIAMETRO DAS VIROLAS 6,35 MM; COMPRIMENTO TOTAL 30MM; VIROLA; VIDRO/LATAO; NAO RENOVAVEL; ACAO NORMAL.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20366740,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "TENSAO NOMINAL 250V; CORRENTE NOMINAL 8A; DIAMETRO DAS VIROLAS 6,35 MM; COMPRIMENTO TOTAL 30 MM; VIROLA; VIDRO/LATAO; NAO RENOVALVEL; ACAO NORMAL",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20366741,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "TENSAO NOMINAL 250V; CORRENTE NOMINAL 10A; DIAMETRO DAS VIROLAS 6,35 MM;\nCOMPRIMENTO TOTAL 30 MM; VIROLA; VIDRO/LATAO; NAO RENOVAL; ACAO NORMAL",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20366742,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "TENSAO NOMINAL 250V; CORRENTE NOMINAL 15A; DIAMETRO DA VIROLAS 6,35 MM; COMPRIMENTO TOTAL 30 MM; VIROLA; VIDRO/LATAO; NAO RENOVAVEL; ACAO NORMAL",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20366745,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "TENSAO NOMINAL 250VCA; CORRENTE NOMINAL 20A; COMPRIMENTO 30 MM; DIAMETRO DAS VIROLAS 6,35 MM; VIROLA; VIDRO; NAO RENOVAVEL; ACAO NORMAL",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30169848,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "VIROLA; VIDRO; NAO RENOVAVEL; ACAO RAPI-DA; DIAMETRO EXTERNO DAS VIROLAS 5MM; COMPRIMENTO TOTAL 20MM; 3A; 250V",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172971,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "CERAMICA; NAO RENOVAVEL; ACAO RAPIDA; DIAMETRO DA VIROLA 5,2mm; COMPRIMENTO TOTAL 20mm; CORRENTE NOMINAL 2A; TENSAO NOMINAL 250VCA.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172975,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "CERAMICA; NAO RENOVAVEL; ACAO RAPIDA; DIAMETRO DA VIROLA 5MM; COMPRIMENTO TOTAL 20MM; CORRENTE NOMINAL 10A; TENSAO NOMINAL 250VCA",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172985,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "VIDRO; VIROLA; NAO RENOVAVEL; ACAO NORMAL TIPO \"M\"; DIAMETRO DA VIROLA 5MM; COMPRIMENTO TOTAL 20MM; TIPO 20AG; CORRENTE NOMINAL 250MA; TENSAO NOMINAL 250VCA.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172992,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "VIDRO;  VIROLA  COM  FIO;  NAO  RENOVAVEL;  ACAO RETARDADA DIAMETRO DA VIROLA  5MM;  COMPRIMENTO  TOTAL  20MM;  CORRENTE  NOMINAL  2A; TENSAO NOMINAL 250VCA.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30172995,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "VIDRO; VIROLA COM FIO; NAO RENOVAVEL; ACAO RETARDADA; DIAMETRO DA VIROLA 5MM; COMPRIMENTO TOTAL 20MM; CORRENTE NOMINAL 10A;TENSAO NOMINAL 250VCA",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173719,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "VIROLA; VIDRO; NAO RENOVAVEL; ACAO RAPIDA; DIAMETRO 5 MM; COMPRIMENTO TOTAL 20 MM; CORRENTE 1A; TENSAO 250V.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173731,
+    "nome": "FUSIVEL CARTUCHO",
+    "descricao": "VIROLA; VIDRO; NAO RENOVAVEL; ACAO RETARDADA; DIAMETRO EXTERNO DAS VIROLAS 5MM; COMPRIMENTO TOTAL 20MM; 10A; 250V V",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173369,
+    "nome": "FUSIVEL CARTUCHO VIDRO",
+    "descricao": "VIROLA COM FIO,ACAO RAPIDA, 12A, 250V, COMPRIMENTO 30 MM; DIAMETRO DA VIROLA 6,35 MM; VIROLA NAO RENOVAVEL.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173726,
+    "nome": "FUSIVEL CARTUCHO VIDRO",
+    "descricao": "NAO RENOVAVEL; ACAO RAPIDA; DIAMETRO EXTERNO DAS VIROLAS 5MM; COMPRIMENTO TOTAL 20MM; 10A; 250V.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30173739,
+    "nome": "FUSIVEL CARTUCHO VIDRO",
+    "descricao": "NAO RENOVAVEL; ACAO RAPIDA; DIAMETRO 6MM; COMPRIMENTO TOTAL 30MM; CORRENTE 10A; TENSAO 250V.",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20346658,
+    "nome": "FUSIVEL DIAZED",
+    "descricao": "CATEGORIA UTILIZACAO gL/gG; CORRENTE NOMINAL 4A; TENSAO NOMINAL 500 V.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 30167818,
+    "nome": "FUSIVEL DIAZED",
+    "descricao": "ACAO RETARDADA; COMPRIMENTO 50MM; DIAMETRO 22,5MM;2A; 500V",
+    "almoxarifado": "G7",
+    "centro": "C26N",
+    "observacao": "",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20370438,
+    "nome": "TRANSCEIVER MM",
+    "descricao": "CONVERSOR DE MÍDIA ETHERNET PARA FIBRAS ÓPTICAS DO TIPO MULTIMODO(MM) NO PADRÃO 100BASE-FX PARA, IEEE 802.3u 10/100BASE-TX; CONVERSOR FIBRA ST/RJ45 10/100 MBPS MULTI 2 Km.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "CONECTOR ST",
+    "imagem": "./assets/img/sem-imagem.png"
+  },
+  {
+    "codigo": 20370439,
+    "nome": "TRANSCEIVER SM",
+    "descricao": "CONVERSOR DE MÍDIA ETHERNET PARA FIBRAS OPTICAS DO TIPO MONOMODO (SM) NO PADRAO 100BASE-FX PARA IEEE 802.3u 10/100BASE-TX; CONVERSOR FIBRA SC/RJ45 10/100 MBPS MONO 15 Km.",
+    "almoxarifado": "G1",
+    "centro": "C24N",
+    "observacao": "CONECTOR SC",
+    "imagem": "./assets/img/sem-imagem.png"
   }
 ]

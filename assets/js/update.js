@@ -18,14 +18,24 @@ function updateTable(material) {
         const imagem = document.createElement('img')
         imagem.src = material[i].imagem;
         imagem.onclick = enlargedImage
-       
+
         tdCodigo.innerText = material[i].codigo;
-        tdNome.innerText = material[i].nome;
+
+        if (material[i].src != undefined) {
+            const tdSystem = document.createElement('a')
+            tdSystem.href = material[i].src
+            tdSystem.innerHTML = material[i].nome
+            tdSystem.target = '_blank'
+            tdNome.appendChild(tdSystem);
+        } else {
+            tdNome.innerText = material[i].nome;
+        }
+    
         tdDescricao.innerText = material[i].descricao;
         tdObservacao.innerText = `Almoxarifado: ${material[i].almoxarifado} 
                                   Centro: ${material[i].centro} 
                                   ${material[i].observacao}`;
-        tdImagem.appendChild(imagem)
+        tdImagem.appendChild(imagem);
 
         row.appendChild(tdCodigo);
         row.appendChild(tdNome);
