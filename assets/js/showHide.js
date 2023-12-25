@@ -11,6 +11,7 @@ btnSearchCode.addEventListener('click', () => {
 btnCloseCode.addEventListener('click', () => {
     const inputCode = document.querySelector(".filter-code");
     inputCode.value = ''
+    filterCode()
     searchCode.style.display = 'none';
 
     showButtons();
@@ -29,6 +30,7 @@ btnSearchName.addEventListener('click', () => {
 btnCloseName.addEventListener('click', () => {
     const inputName = document.querySelector(".filter-name");
     inputName.value = ''
+    filterCode()
     searchName.style.display = 'none';
 
     showButtons();
@@ -47,6 +49,7 @@ btnSearchDescription.addEventListener('click', () => {
 btnCloseDescription.addEventListener('click', () => {
     const inputDescription = document.querySelector(".filter-description");
     inputDescription.value = ''
+    filterCode()
     searchDescription.style.display = 'none';
 
     showButtons();
@@ -66,6 +69,7 @@ btnSearchObservation.addEventListener('click', () => {
 btnCloseObservation.addEventListener('click', () => {
     const inputObservation = document.querySelector(".filter-name");
     inputObservation.value = ''
+    filterCode()
     searchObservation.style.display = 'none'
 
     showButtons();

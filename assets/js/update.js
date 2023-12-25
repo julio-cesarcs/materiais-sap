@@ -32,9 +32,7 @@ function updateTable(material) {
         }
     
         tdDescricao.innerText = material[i].descricao;
-        tdObservacao.innerText = `Almoxarifado: ${material[i].almoxarifado} 
-                                  Centro: ${material[i].centro} 
-                                  ${material[i].observacao}`;
+        tdObservacao.innerText = material[i].observacao;
         tdImagem.appendChild(imagem);
 
         row.appendChild(tdCodigo);
