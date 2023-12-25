@@ -343,22 +343,6 @@
     "imagem": "../assets/img/sem-imagem.png"
   },
   {
-    "codigo": "10056273",
-    "nome": "SISTEMA DETECCAO ALARME INCENDIO",
-    "descricao": "ALMOXARIFADO PONTA FINA.",
-    "observacao": "N/A",
-    "imagem": "./assets/img/sistema.png",
-    "src": "pages/pci.html"
-  },
-  {
-    "codigo": "10059066",
-    "nome": "SISTEMA ELETROACUSTICO / INTERFONIA CYC",
-    "descricao": "-",
-    "observacao": "N/A",
-    "imagem": "./assets/img/sistema.png",
-    "src": "pages/cyc.html"
-  },
-  {
     "codigo": 20371700,
     "nome": "ABRACADEIRA PLASTICA PARA TUBO PVC 3/4",
     "descricao": "PLASTICA, COR CINZA; PARA TUBO PVC 3/4\"; COM FECHO DE SISTEMA \"CLIC\".",
