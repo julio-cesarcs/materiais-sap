@@ -15,22 +15,15 @@ function updateTable(material) {
         const tdObservacao = document.createElement('td');
         const tdImagem = document.createElement('td');
 
-        const imagem = document.createElement('img')
-        imagem.src = material[i].imagem;
+        const imagem = document.createElement('img');
+        imagem.src = `./assets/img/${material[i].codigo}.png`;
+        imagem.onerror = function() {
+            imagem.src = './assets/img/sem-imagem.png'
+        };
         imagem.onclick = enlargedImage
 
         tdCodigo.innerText = material[i].codigo;
-
-        if (material[i].src != undefined) {
-            const tdSystem = document.createElement('a')
-            tdSystem.href = material[i].src
-            tdSystem.innerHTML = material[i].nome
-            tdSystem.target = '_blank'
-            tdNome.appendChild(tdSystem);
-        } else {
-            tdNome.innerText = material[i].nome;
-        }
-    
+        tdNome.innerText = material[i].nome;
         tdDescricao.innerText = material[i].descricao;
         tdObservacao.innerText = material[i].observacao;
         tdImagem.appendChild(imagem);
