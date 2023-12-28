@@ -35,7 +35,7 @@ main {
 }
 
 #column-description {
-    width: 40%;
+    width: 45%;
 }
 
 #column-observation {
@@ -43,7 +43,7 @@ main {
 }
 
 #column-image {
-    width: 15%;
+    width: 10%;
 }
 
 .btn-search-code,
