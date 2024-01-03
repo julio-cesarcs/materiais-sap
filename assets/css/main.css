@@ -176,8 +176,8 @@ a:visited {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 500px;
-    height: 500px;
+    width: 300px;
+    height: 300px;
     z-index: 2;
     background-color: #41CEE0;
     cursor: auto;
@@ -185,13 +185,13 @@ a:visited {
 }
 
 .enlarged-image img {
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
 }
 
 .enlarged-image button {
     padding: 5px;
-    margin-top: 5px;
+    margin-top: 1rem;
 }
 
 .close-image {
@@ -228,4 +228,13 @@ footer {
         overflow-x: hidden;
     }
 
+    .enlarged-image {
+        width: 500px;
+        height: 500px;
+    }   
+
+    .enlarged-image img {
+        width: 400px;
+        height: 400px;
+    }
 }
