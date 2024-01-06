@@ -12,7 +12,9 @@ function updateTable(material) {
         const tdCodigo = document.createElement('td');
         const tdNome = document.createElement('td');
         const tdDescricao = document.createElement('td');
+        tdDescricao.classList = 'column-hide'
         const tdObservacao = document.createElement('td');
+        tdObservacao.classList = 'column-hide'
         const tdImagem = document.createElement('td');
 
         const imagem = document.createElement('img');

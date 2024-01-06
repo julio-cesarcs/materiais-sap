@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="742"
+   viewBox="0 0 508 196.32083"
+   version="1.1"
+   id="svg447"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="..\..\..\Code\Projetos\materiais-sap\assets\img\logo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview449"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.59607843"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="857.01342"
+     inkscape:cy="619.42554"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs444">
+    <rect
+       x="381.83765"
+       y="302.64169"
+       width="2084.5508"
+       height="718.42047"
+       id="rect3326" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#0682c4;fill-opacity:1;stroke-width:0.0764971"
+       id="path798"
+       cx="256.48627"
+       cy="96.543098"
+       rx="240.77083"
+       ry="84.931252" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.0683291"
+       id="path798-8"
+       cx="256.48627"
+       cy="96.543098"
+       rx="227.54167"
+       ry="71.70208" />
+    <ellipse
+       style="fill:#0682c4;fill-opacity:1;stroke-width:0.059884"
+       id="path798-8-1"
+       cx="256.48627"
+       cy="96.543098"
+       rx="214.3125"
+       ry="58.472916" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-17.176934,-26.124388)"
+       id="text3324"
+       style="font-size:293.333px;white-space:pre;shape-inside:url(#rect3326);shape-padding:0;display:inline;fill:#0682c4;fill-opacity:1"><tspan
+         x="381.83789"
+         y="570.25917"
+         id="tspan611"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff"
+           id="tspan609">SISCOM</tspan></tspan></text>
+  </g>
+</svg>
