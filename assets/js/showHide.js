@@ -67,7 +67,7 @@ btnSearchObservation.addEventListener('click', () => {
 })
 
 btnCloseObservation.addEventListener('click', () => {
-    const inputObservation = document.querySelector(".filter-name");
+    const inputObservation = document.querySelector(".filter-observation");
     inputObservation.value = ''
     filterCode()
     searchObservation.style.display = 'none'
