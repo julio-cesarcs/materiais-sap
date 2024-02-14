@@ -10,12 +10,15 @@ function updateTable(material) {
         }
 
         const tdCodigo = document.createElement('td');
+        tdCodigo.style.width='200px'
         const tdNome = document.createElement('td');
+        tdNome.classList = document = 'column-name'
         const tdDescricao = document.createElement('td');
-        tdDescricao.classList = 'column-hide'
+        tdDescricao.classList = 'column-hide column-description'
         const tdObservacao = document.createElement('td');
-        tdObservacao.classList = 'column-hide'
+        tdObservacao.classList = 'column-hide column-observation'
         const tdImagem = document.createElement('td');
+        tdImagem.classList = 'column-image'
 
         const imagem = document.createElement('img');
         imagem.src = `./assets/img/${material[i].codigo}.png`;

@@ -45,6 +45,7 @@ main {
 
 table {
     min-width: 100%;
+    table-layout: fixed;
 }
 
 table,
@@ -100,15 +101,15 @@ tbody tr img:hover {
     flex-direction: column;
 }
 
-#column-code {
+.column-code {
+    width: 200px;
+}
+
+.column-name {
     width: 30%;
 }
 
-#column-name {
-    width: 30%;
-}
-
-#column-image {
+.column-image {
     width: 40%;
 }
 
@@ -214,28 +215,34 @@ footer {
         align-items: center;
     }
 
+    td, th {
+
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
     main {
         max-width: 1350px;
     }
 
-    #column-code {
-        width: 10%;
+    .column-code {
+        width: 200px;
     }
     
-    #column-name {
-        width: 20%;
+    .column-name {
+        width: 200px;
     }
     
-    #column-description {
-        width: 45%;
+    .column-description {
+        width: 200px;
     }
     
-    #column-observation {
-        width: 13%;
+    .column-observation {
+        width: 200px;
     }
     
-    #column-image {
-        width: 12%;
+    .column-image {
+        width: 200px;
     }
 
     .column-hide{
