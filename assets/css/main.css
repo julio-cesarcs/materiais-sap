@@ -102,12 +102,13 @@ tbody tr img:hover {
 }
 
 .column-code {
-    width: 200px;
+    width: 20%;
 }
 
 .column-name {
-    width: 30%;
+    width: 40%;
 }
+
 
 .column-image {
     width: 40%;
@@ -226,23 +227,23 @@ footer {
     }
 
     .column-code {
-        width: 200px;
+        width: 12%;
     }
     
     .column-name {
-        width: 200px;
+        width: 18%;
     }
     
     .column-description {
-        width: 200px;
+        width: 40%;
     }
     
     .column-observation {
-        width: 200px;
+        width: 15%;
     }
     
     .column-image {
-        width: 200px;
+        width: 15%;
     }
 
     .column-hide{
