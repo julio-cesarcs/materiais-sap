@@ -10,9 +10,9 @@ function updateTable(material) {
         }
 
         const tdCodigo = document.createElement('td');
-        tdCodigo.style.width='200px'
+        tdCodigo.classList = 'column-code'
         const tdNome = document.createElement('td');
-        tdNome.classList = document = 'column-name'
+        tdNome.classList = 'column-name'
         const tdDescricao = document.createElement('td');
         tdDescricao.classList = 'column-hide column-description'
         const tdObservacao = document.createElement('td');

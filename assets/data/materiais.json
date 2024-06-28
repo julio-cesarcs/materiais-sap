@@ -312,12 +312,6 @@
     "observacao": "N/A"
   },
   {
-    "codigo": "30167699",
-    "nome": "MINI RACK COM KIT VENTILACAO",
-    "descricao": "PORTA FRONTAL EM VIDRO TEMPERADO, FECHAMENTO COM CHAVE, ESTRUTURA EM CHAPA DE ACO, COM KIT VENTILACAO CONFORME REQ. 10240323",
-    "observacao": "N/A"
-  },
-  {
     "codigo": "30167524",
     "nome": "MODULO TORRE",
     "descricao": "CONJUNTO DE MODULO DE TORRE",
@@ -3721,7 +3715,7 @@
   },
   {
     "codigo": "20370083",
-    "nome": "PLACAB INTERFACE",
+    "nome": "PLACA INTERFACE",
     "descricao": "BACKBOX SPECTRA IV;\n COM ALARMES PARA USO EM CAMERAS PELCO DD4CBW35",
     "observacao": "APLICAÇÃO: 10059522\nCIRCUITO FECHADO TV AREA VIGIADA ITAORNA"
   },

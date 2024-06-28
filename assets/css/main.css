@@ -151,7 +151,7 @@ tbody tr img:hover {
 }
 
 .column-hide{
-    display:none
+    display:none;
 }
 
 .panel {
@@ -198,7 +198,7 @@ footer {
     margin: 0 1rem;
 } */
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 780px) {
 
     body {
         background-color: #a5b9f5;
@@ -217,7 +217,6 @@ footer {
     }
 
     td, th {
-
         overflow: hidden;
         text-overflow: ellipsis;
     }
